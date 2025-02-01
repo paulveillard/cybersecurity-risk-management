@@ -6,3 +6,12 @@ An ongoing & curated collection of awesome software best practices and technique
 
 
 ## `Table of Contents`
+
+## What is Risk Management?
+
+According to The Standard for Risk Management in Portfolios, Programs, and Projects by PMI, risk management is the process that shapes decision-making across the organization and involves 4 major steps:
+
+- Risk Framing
+- Risk Assessment
+- Risk Response
+- Risk Monitoring
