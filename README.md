@@ -12,7 +12,7 @@ An ongoing & curated collection of awesome software best practices and technique
 According to The Standard for Risk Management in Portfolios, Programs, and Projects by PMI, risk management is the process that shapes decision-making across the organization and involves 4 major steps:
 
 <p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity-risk-maangement/blob/main/img/risk_management-1.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/paulveillard/cybersecurity-risk-management/blob/main/img/risk_management-1.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 - Risk Framing
